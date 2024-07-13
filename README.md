@@ -1,5 +1,5 @@
 # Project Title:
-Using Bayesian Neural Network Ensemble to predict thermo-acoustic combustion instability.\\
+Using Bayesian Neural Network Ensemble to predict thermo-acoustic combustion instability. \
 See the code for Project --> [Notebook](https://github.com/Galacterzz/Bayesian-NN-ME228/blob/6b59f0cbdb2f90e230db1d6e7b6133bb3e736b60/Me228%20final%20project%20submission.ipynb)
 # Project Description:
 We used input parameters such as power, equivalence ratio, fuel composition, and boundary condition of the tube are varied, which creates 900 unique input parameters. At each operating point, the combustion noise is recorded. In addition, short acoustic pulses at the fundamental frequency are supplied to the tube with a loudspeaker and the decay rates of subsequent acoustic oscillations are measured.
